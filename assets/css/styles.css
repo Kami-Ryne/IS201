@@ -1,0 +1,66 @@
+
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 16px;
+    color: black;
+}
+
+.funkytown {
+    font-family: cursive;
+    color:deeppink;
+    font-weight: bolder;
+}
+.democlass {
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.neat {
+    color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.signature {
+    font-family: cursive;
+    color:red
+}
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+a:visited{
+    color: purple;
+}
+li {
+    font-family: cursive;
+    font-size: 16px;
+    color: gray;
+    font-weight: normal; 
+}
+.background {
+    background-color: darkslateblue;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.box1{
+border-width: 1px;
+border-style: dashed;
+border-color: blueviolet;
+}
+.box2{
+    padding: 5px;
+
+}
+.box3{
+    margin: 50px; 
+}
+.maintext{
+    font: bold;
+    text-decoration: underline;
+    font-size: 40px;
+}
